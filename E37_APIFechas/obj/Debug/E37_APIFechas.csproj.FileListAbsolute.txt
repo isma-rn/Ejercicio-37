@@ -1,0 +1,7 @@
+C:\Users\Fam RN\source\Ejercicios C\E37_APIFechas\E37_APIFechas\bin\Debug\E37_APIFechas.exe.config
+C:\Users\Fam RN\source\Ejercicios C\E37_APIFechas\E37_APIFechas\bin\Debug\E37_APIFechas.exe
+C:\Users\Fam RN\source\Ejercicios C\E37_APIFechas\E37_APIFechas\bin\Debug\E37_APIFechas.pdb
+C:\Users\Fam RN\source\Ejercicios C\E37_APIFechas\E37_APIFechas\obj\Debug\E37_APIFechas.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E37_APIFechas\E37_APIFechas\obj\Debug\E37_APIFechas.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E37_APIFechas\E37_APIFechas\obj\Debug\E37_APIFechas.exe
+C:\Users\Fam RN\source\Ejercicios C\E37_APIFechas\E37_APIFechas\obj\Debug\E37_APIFechas.pdb
